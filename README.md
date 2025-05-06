@@ -5,14 +5,14 @@
 🔹 Skilled in building dynamic, responsive, and scalable web applications using the <b>MERN Stack</b><br>
 🚀 Continuously enhancing expertise in <b>Backend Development, API Integration, and Deployment</b><br>
 💬 Open to discussions on <b>React.js, Node.js</b>, and modern web technologies<br>
-📧 Reach me at <a href="mailto:youremail@example.com">youremail@example.com</a><br>
+📧 Reach me at <a href="aryankhatik721@gmail.com">aryankhatik721@gmail.com</a><br>
 </p>
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/aryan-khatri-8587b3251/)" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
 </p>
