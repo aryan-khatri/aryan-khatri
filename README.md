@@ -35,11 +35,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
 </p>
-
----
-
-### 👨‍🎨 Cartoon Developer Image:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Sachin7225/Sachin7225@main/dev.gif" width="300" />
-</p>
-
