@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Khatri</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left">
 🔹 Skilled in building dynamic, responsive, and scalable web applications using the <b>MERN Stack</b><br>
