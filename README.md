@@ -13,9 +13,9 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 🎓 Final Year `B.Tech` Student (Mechanical Engineering)
-- 🏢 `Full Stack Developer Intern` at **Quintus Tech Pvt. Ltd.**, Indore
-- 💻 Passionate about `Web Development`, `Cybersecurity`, and `Vulnerability Assessment`
+- 🎓 Final Year `Integrated M.Tech` Student (Cyber Security And Digital Forensics)
+- 🏢 `Full Stack Developer Intern` at **Prodigy.**
+- 💻 Passionate about `Web Development`, `Cybersecurity.
 - 🌐 Built projects in `MERN Stack`, `Java`, and `RESTful APIs`
 - ✉️ Reach me at [![Send me Email](https://img.shields.io/static/v1?label=email&message=AryanKhatri&color=EA4335&style=flat-square)](mailto:aryankhatik721@gmail.com)
 - 💡 Motto: "Break things to learn how they work, then build better."
@@ -26,10 +26,11 @@
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=20px></picture> Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=20px></picture> Frontend Development
 
@@ -40,46 +41,16 @@
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=20px></picture> Backend & Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=20px></picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="left">
-<table align="left">
-<tr>
-<td width="50%" align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aryankhatik721&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankhatik721&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankhatik721&theme=dark&hide_border=false&langs_count=8&layout=compact" />
-</td>
-</tr>
-</table>
-</p>
-
-<br><br><br><br><br><br><br><br><br>
-
-## 🏆 GitHub Trophies
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryankhatik721&theme=radical&row=1&column=7&margin-w=10" alt="GitHub Trophy" />
-</div>
 
 <br>
 
