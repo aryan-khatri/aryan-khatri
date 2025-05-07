@@ -17,7 +17,10 @@
 - 🏢 `Full Stack Developer Intern` at **Prodigy.**
 - 💻 Passionate about `Web Development`, `Cybersecurity.
 - 🌐 Built projects in `MERN Stack`, `Java`, and `RESTful APIs`
-- ✉️ Reach me at [![Send me Email](https://img.shields.io/static/v1?label=email&message=AryanKhatri&color=EA4335&style=flat-square)](mailto:aryankhatik721@gmail.com)
+- ✉️ Reach me at 
+  <a href="mailto:aryankhatik721@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 6px;">
+    <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" height="12"/>
+  </a>
 - 💡 Motto: "Break things to learn how they work, then build better."
 
 <br>
@@ -58,14 +61,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aryan-khatri-8587b3251/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:aryankhatik721@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:aryankhatik721@gmail.com" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-aryankhatik721@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
 </p>
 
-<br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
