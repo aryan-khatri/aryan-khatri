@@ -69,6 +69,18 @@
 </p>
 
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-khatri&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-khatri&layout=compact&theme=github_dark" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-khatri&theme=github-dark&hide_border=true" height="180"/>
+</p>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
