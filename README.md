@@ -68,6 +68,18 @@
   </a>
 </p>
 
+## 📜 Certifications
+
+- ✅ [Cyber Security Analyst - IBM](https://courses.ibmcep.cognitiveclass.ai/certificates/fbdba3c841e74b8287dee891dc4122f2)
+- ✅ [Full Stack Web Development - Prodigy InfoTech](https://prodigyinfotech.dev/verify?cin=PIT/DEC24/20084)
+- ✅ [Ethical Hacking Essentials - EC-Council](https://example.com/your-certificate-link)
+- ✅ [Blockchain and its Applications - NPTEL](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs15/Course/NPTEL24CS15S105760076930415506.pdf)
+- ✅ [Cybersecurity Skilling Program - C3iHub, IIT Kanpur](https://verify.c3ihub.digitalcredentials.in/161b76ad-7b3c-43b0-b9ab-0c1a697bac36)
+- ✅ [Introduction to Cybersecurity - Cisco Networking Academy](https://www.credly.com/badges/30e49ee2-12e8-4524-9759-d189b1d25daf/print)
+- ✅ [Introduction to C++ Programming and Unreal - Coursera](https://www.coursera.org/account/accomplishments/verify/BKUQGZBUTBTA)
+- ✅ [C for Everyone: Programming Fundamentals - Coursera](https://www.coursera.org/account/accomplishments/verify/ZSYLZ5NE5HZV).
+- ✅ [Intro to SQL - Kaggle](https://www.kaggle.com/learn/certification/aryan21mei10004/intro-to-sql)
+- ✅ [The Bits and Bytes of Computer Networking - Coursera](https://www.coursera.org/account/accomplishments/verify/VFNJHA6U2SAW)
 
 
 ## 📊 GitHub Stats
