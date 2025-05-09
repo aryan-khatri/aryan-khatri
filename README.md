@@ -66,6 +66,10 @@
   <a href="mailto:aryankhatik721@gmail.com" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Gmail-aryankhatik721@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
+    </a>
+  <a href="https://aryan-khatri.github.io/resume.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" height="30" />
+  </a>
 </p>
 
 <br>
