@@ -16,7 +16,7 @@
 
 - Final Year `Integrated M.Tech` Student at VIT Bhopal (Cyber Security And Digital Forensics)
 - `Full Stack Developer Intern` at **Prodigy.**
-- Passionate about `Web Development`, `Cybersecurity.
+- Passionate about `Web Development`, `Cybersecurity`.
 - Built projects in `MERN Stack`, `Java`, and `RESTful APIs`
 - Reach me at
   <a href="mailto:aryankhatik721@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 6px;">
