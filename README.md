@@ -103,4 +103,3 @@
 
 ---
 
-Credit: [Aryan Khatri](https://github.com/aryankhatik721)
