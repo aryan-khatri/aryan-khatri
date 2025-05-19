@@ -18,14 +18,30 @@
 - `Full Stack Developer Intern` at **Prodigy.**
 - Passionate about `Web Development`, `Cybersecurity`.
 - Built projects in `MERN Stack`, `Java`, and `RESTful APIs`
-- Reach me at  
+- **Motto**: *"Break things to learn how they work, then build better."*
+## Reach me at  
+
+<!-- Contact Section -->
+<p align="left">
+
   <a href="mailto:aryankhatik721@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" height="27"/>
   </a>
+
   <a href="https://portfolio-341d.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" height="27" />
   </a>
-- **Motto**: *"Break things to learn how they work, then build better."*
+
+  <a href="https://www.linkedin.com/in/aryan-khatri-8587b3251/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+
+  <a href="https://aryan-khatri.github.io/resume.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" height="30" />
+  </a>
+
+</p>
+
 
 
 
@@ -56,24 +72,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
-
-
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aryan-khatri-8587b3251/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:aryankhatik721@gmail.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-aryankhatik721@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/>
-  </a>
-    </a>
-  <a href="https://aryan-khatri.github.io/resume.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" height="30" />
-  </a>
-</p>
-
 
 
 ## Certifications
