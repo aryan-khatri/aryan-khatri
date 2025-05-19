@@ -18,10 +18,13 @@
 - `Full Stack Developer Intern` at **Prodigy.**
 - Passionate about `Web Development`, `Cybersecurity`.
 - Built projects in `MERN Stack`, `Java`, and `RESTful APIs`
-- Reach me at
+- Reach me at <br>
   <a href="mailto:aryankhatik721@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 6px;">
-  <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" height="20"/>
+  <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" height="27"/>
   </a>
+  <a href="https://portfolio-341d.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" height="27" />
+</a>
 - Motto: "Break things to learn how they work, then build better."
 
 <br>
