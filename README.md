@@ -18,16 +18,16 @@
 - `Full Stack Developer Intern` at **Prodigy.**
 - Passionate about `Web Development`, `Cybersecurity`.
 - Built projects in `MERN Stack`, `Java`, and `RESTful APIs`
-- Reach me at <br>
-  <a href="mailto:aryankhatik721@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 6px;">
-  <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" height="27"/>
+- Reach me at  
+  <a href="mailto:aryankhatik721@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" height="27"/>
   </a>
   <a href="https://portfolio-341d.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" height="27" />
-</a>
-- Motto: "Break things to learn how they work, then build better."
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" height="27" />
+  </a>
+- **Motto**: *"Break things to learn how they work, then build better."*
 
-<br>
+
 
 ## My Skills
 
@@ -57,7 +57,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-<br>
+
 
 ## Connect with Me
 
@@ -74,7 +74,7 @@
   </a>
 </p>
 
-<br>
+
 
 ## Certifications
 
@@ -91,7 +91,7 @@
 | Data            | ![Kaggle](https://img.shields.io/badge/Intro%20to%20SQL-Kaggle-ff69b4)                                | Kaggle            | [Verify](https://www.kaggle.com/learn/certification/aryan21mei10004/intro-to-sql)                                                   |
 | Networking      | ![Coursera](https://img.shields.io/badge/Bits%20&%20Bytes%20of%20Networking-Coursera-9cf)             | Coursera          | [Verify](https://www.coursera.org/account/accomplishments/verify/VFNJHA6U2SAW)                                                      |
 
-<br>
+
 
 ## GitHub Stats
 
