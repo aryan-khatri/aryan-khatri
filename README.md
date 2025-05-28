@@ -33,11 +33,11 @@
   </a>
 
   <a href="https://www.linkedin.com/in/aryan-khatri-8587b3251/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="27" />
   </a>
 
   <a href="https://aryan-khatri.github.io/resume/" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" height="30" />
+    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" height="27" />
   </a>
 
 </p>
