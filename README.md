@@ -1,78 +1,81 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border--->
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi there, I'm Aryan Khatri</h1></summary>
   </ul>
 </div>
 
-<!--About Me-->
+## About Me
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
+<picture> 
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px>
+</picture>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+- Final Year `Integrated M.Tech` Student at VIT Bhopal (Cyber Security & Digital Forensics)
+- `Cybersecurity Intern (Penetration Testing)` at **Qantas Pvt. Ltd.** and **Prodigy Infotech**
+- Skilled in `Web & Network Penetration Testing`
+- Passionate about `Offensive Security & Vulnerability Analysis`
+- **CTF Player** – Secured **Top 15 Rank**
+- **Motto**: *"Find Loopholes in a System."*
 
-- Final Year `Integrated M.Tech` Student at VIT Bhopal (Cyber Security And Digital Forensics)
-- `Full Stack Developer Intern` at **Prodigy.**
-- Passionate about `Web Development`, `Cybersecurity`.
-- Built projects in `MERN Stack`, `Java`, and `RESTful APIs`
-- **Motto**: *"Break things to learn how they work, then build better."*
+---
+
 ## Reach me at  
 
-<!-- Contact Section -->
 <p align="left">
 
   <a href="mailto:aryankhatik721@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" height="27"/>
+    <img src="https://img.shields.io/static/v1?label=Email&message=aryankhatik721@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" height="27"/>
   </a>
 
   <a href="https://portfolio-341d.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" height="27" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" height="27" />
   </a>
 
   <a href="https://www.linkedin.com/in/aryan-khatri-8587b3251/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="27" />
-  </a>
-
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" height="27" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="27" />
   </a>
 
 </p>
 
+---
+
+## Skills
+
+### Cybersecurity
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square)
+![Gobuster](https://img.shields.io/badge/Gobuster-grey?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-darkred?style=flat-square)
+![JohnTheRipper](https://img.shields.io/badge/John%20The%20Ripper-black?style=flat-square)
 
 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=flat-square)
 
-## My Skills
+---
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=20px></picture> Programming Languages
+## Experience
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+### Cybersecurity Intern (Penetration Testing) – Qantas Pvt. Ltd.
+- Performed reconnaissance and enumeration using Nmap and Gobuster.  
+- Conducted web application testing to identify vulnerabilities.  
+- Assisted in network security assessments and attack surface analysis.  
+- Documented vulnerabilities with risk levels and remediation steps.  
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=20px></picture> Frontend Development
+### Cybersecurity Intern (Penetration Testing) – Prodigy Infotech
+- Executed information gathering and scanning across web and network environments.  
+- Performed reconnaissance using Shodan and Nmap.  
+- Identified security weaknesses including insecure configurations.  
+- Created structured penetration testing reports with mitigation strategies.  
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=20px></picture> Backend & Tools
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=20px></picture> Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
-
+---
 
 ## Certifications
 
