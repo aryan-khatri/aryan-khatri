@@ -50,6 +50,7 @@
 ![Gobuster](https://img.shields.io/badge/Gobuster-grey?style=flat-square)
 ![Hydra](https://img.shields.io/badge/Hydra-darkred?style=flat-square)
 ![JohnTheRipper](https://img.shields.io/badge/John%20The%20Ripper-black?style=flat-square)
+![Full Stack Development](https://img.shields.io/badge/John%20The%20Ripper-black?style=flat-square)
 
 
 ### Tools & Platforms
