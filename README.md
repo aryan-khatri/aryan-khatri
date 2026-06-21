@@ -79,7 +79,13 @@
 - Executed information gathering and scanning across web and network environments.  
 - Performed reconnaissance using Shodan and Nmap.  
 - Identified security weaknesses including insecure configurations.  
-- Created structured penetration testing reports with mitigation strategies.  
+- Created structured penetration testing reports with mitigation strategies.
+
+### Full Stack Intern — HTML, CSS, JavaScript, RESTful APIs, Git & GitHub | Future Interns
+• Implement a fully functional full-stack e-commerce web application with a focus on user interface, fast performance.
+• Integrated secure user authentication mechanisms, implemented dynamic product management features.
+• Ensure high-quality coding standards and integrate third-party APIs for enhanced website features and functionality.
+• Streamlined order processing using modular backend with scalable architecture to enhance user experience
 
 ---
 
