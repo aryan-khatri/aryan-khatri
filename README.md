@@ -14,7 +14,7 @@
 </picture>
 
 - Final Year `Integrated M.Tech` Student at VIT Bhopal (Cyber Security & Digital Forensics)
-- `Cybersecurity Intern (Penetration Testing)` at **Qantas Pvt. Ltd.** and **Prodigy Infotech**
+- `Cybersecurity Intern (Penetration Testing)` at **Quintus Pvt. Ltd, Indore** and **Prodigy Infotech**
 - Skilled in `Web & Network Penetration Testing`
 - Passionate about `Offensive Security & Vulnerability Analysis`
 - **CTF Player** – Secured **Top 15 Rank**
@@ -46,6 +46,8 @@
 
 ### Cybersecurity
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
+![Burpsuit](https://img.shields.io/badge/Burpsuit-black?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkred?style=flat-square)
 ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square)
 ![Gobuster](https://img.shields.io/badge/Gobuster-grey?style=flat-square)
 ![Hydra](https://img.shields.io/badge/Hydra-darkred?style=flat-square)
