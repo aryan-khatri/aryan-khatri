@@ -15,7 +15,7 @@
 
 - Final Year `Integrated M.Tech` Student at VIT Bhopal (Cyber Security & Digital Forensics)
 - `Cybersecurity Intern (Penetration Testing)` at **Quintus Pvt. Ltd, Indore** and **Prodigy Infotech**
-- Skilled in `Web & Network Penetration Testing`
+- Skilled in `Web Development & Penetration Testing [VAPT]`
 - Passionate about `Offensive Security & Vulnerability Analysis`
 - **CTF Player** – Secured **Top 15 Rank**
 - **Motto**: *"Find Loopholes in a System."*
@@ -71,13 +71,13 @@
 
 ## Experience
 
-### Cybersecurity Intern (Penetration Testing) – Qantas Pvt. Ltd.
+### Cybersecurity Intern (Penetration Testing) – Quintus Pvt. Ltd.
 - Performed reconnaissance and enumeration using Nmap and Gobuster.  
 - Conducted web application testing to identify vulnerabilities.  
 - Assisted in network security assessments and attack surface analysis.  
 - Documented vulnerabilities with risk levels and remediation steps.  
 
-### Cybersecurity Intern (Penetration Testing) – Prodigy Infotech
+### VAPT Intern (Penetration Testing) – Prodigy Infotech
 - Executed information gathering and scanning across web and network environments.  
 - Performed reconnaissance using Shodan and Nmap.  
 - Identified security weaknesses including insecure configurations.  
